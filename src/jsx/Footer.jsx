@@ -11,7 +11,7 @@ function Footer() {
             <div className="footer_content anchor_videos" id="anchor_videos">
               <h3>Watch the videos</h3>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/BEpcOTKHThw" title="Trade And Development Report" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                <iframe src="https://player.vimeo.com/video/870977951" title="Trade And Development Report" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
               </div>
               <ul>
                 <li>
@@ -54,20 +54,20 @@ function Footer() {
                   <a href="https://vimeo.com/871034658" target="_blank" rel="noreferrer">Kiswahili</a>
                 </li>
               </ul>
-              <h4 className="hidden">Watch the press conference</h4>
-              <div className="iframe_container youtube_iframe hidden">
-                <iframe src="https://www.youtube.com/embed/rUR6isHC8MI" title="Trade And Development Report Press Conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+              <h4>Press conference: UNCTAD Secretary-General Rebeca Grynspan outlines the key messages</h4>
+              <div className="iframe_container youtube_iframe">
+                <iframe src="https://player.vimeo.com/video/871016982?h=e2e8033fa1" title="Press conference" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
               </div>
-              <ul className="hidden">
+              <ul>
                 <li>
                   <strong>Download:</strong>
                   {' '}
-                  <a href="https://vimeo.com/868706263" target="_blank" rel="noreferrer">Video</a>
+                  <a href="https://vimeo.com/871016982" target="_blank" rel="noreferrer">Video</a>
                 </li>
               </ul>
               <h4>Interview with Richard Kozul-Wright, Director of UNCTAD’s Globalization and Development Strategies Division</h4>
-              <div className="iframe_container youtube_iframe hidden">
-                <iframe src="https://www.youtube.com/embed/IbVRtayUJoo" title="Interview with Shamika N. Sirimanne, Director of UNCTAD's Technology and Logistics Division" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+              <div className="iframe_container youtube_iframe">
+                <iframe src="https://player.vimeo.com/video/870968586?h=1096fab3d9" title="Interview with Richard Kozul-Wright, Director of UNCTAD’s Globalization and Development Strategies Division" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
               </div>
               <ul>
                 <li>
@@ -77,8 +77,8 @@ function Footer() {
                 </li>
               </ul>
               <h4>Interview with Anastasia Nesvetailova, Head of UNCTAD’s Macroeconomic and Development Policies Branch</h4>
-              <div className="iframe_container youtube_iframe hidden">
-                <iframe src="https://www.youtube.com/embed/RD57SmYtYG4" title="Interview with Jan Hoffmann, Head of UNCTAD's Trade Logistics Branch" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+              <div className="iframe_container youtube_iframe">
+                <iframe src="https://player.vimeo.com/video/870968098?h=9f229e9a3a" title="Interview with Anastasia Nesvetailova, Head of UNCTAD’s Macroeconomic and Development Policies Branch" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
               </div>
               <ul>
                 <li>
