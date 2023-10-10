@@ -24,12 +24,14 @@ function Footer() {
                   <a href="https://youtube.com/shorts/hvBdU2wnHNo" target="_blank" rel="noreferrer">简体中文</a>
                   {', '}
                   <div className="hidden">
-                    <a href="video" target="_blank" rel="noreferrer">Русский</a>
+                    <a href="https://youtu.be/00iFOntZxG0" target="_blank" rel="noreferrer">Русский</a>
                     {', '}
                   </div>
                   <a href="https://youtube.com/shorts/vcOg6-h0kEQ" target="_blank" rel="noreferrer">Português</a>
                   {', '}
-                  <a href="https://youtube.com/shorts/cW4TQx-Gkxs" target="_blank" rel="noreferrer">Kiswahili</a>
+                  <a href="https://youtube.com/shorts/q39vfOZ8MSI" target="_blank" rel="noreferrer">Kiswahili</a>
+                  {', '}
+                  <a href="https://youtube.com/shorts/cW4TQx-Gkxs" target="_blank" rel="noreferrer">Urdu اردو</a>
                 </li>
               </ul>
               <h4>Download the report video</h4>
@@ -46,12 +48,14 @@ function Footer() {
                   <a href="https://vimeo.com/871034516" target="_blank" rel="noreferrer">简体中文</a>
                   {', '}
                   <div className="hidden">
-                    <a href="video" target="_blank" rel="noreferrer">Русский</a>
+                    <a href="https://vimeo.com/868447615" target="_blank" rel="noreferrer">Русский</a>
                     {', '}
                   </div>
                   <a href="https://vimeo.com/871034692" target="_blank" rel="noreferrer">Português</a>
                   {', '}
-                  <a href="https://vimeo.com/873046823" target="_blank" rel="noreferrer">Kiswahili</a>
+                  <a href="https://vimeo.com/871034658" target="_blank" rel="noreferrer">Kiswahili</a>
+                  {', '}
+                  <a href="https://vimeo.com/873046823" target="_blank" rel="noreferrer">Urdu اردو</a>
                 </li>
               </ul>
               <h4>Press conference: UNCTAD Secretary-General Rebeca Grynspan outlines the key messages</h4>
