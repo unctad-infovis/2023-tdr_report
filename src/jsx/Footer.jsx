@@ -11,7 +11,7 @@ function Footer() {
             <div className="footer_content anchor_videos" id="anchor_videos">
               <h3>Watch the videos</h3>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://player.vimeo.com/video/870977951" title="Trade And Development Report" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
+                <iframe src="https://player.vimeo.com/video/870977951" title="Trade And Development Report" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen />
               </div>
               <ul>
                 <li>
@@ -60,7 +60,7 @@ function Footer() {
               </ul>
               <h4>Press conference: UNCTAD Secretary-General Rebeca Grynspan outlines the key messages</h4>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://player.vimeo.com/video/871016982?h=e2e8033fa1" title="Press conference" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
+                <iframe src="https://player.vimeo.com/video/871016982?h=e2e8033fa1" title="Press conference" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen />
               </div>
               <ul>
                 <li>
@@ -71,7 +71,7 @@ function Footer() {
               </ul>
               <h4>Interview with Richard Kozul-Wright, Director of UNCTAD’s Globalization and Development Strategies Division</h4>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://player.vimeo.com/video/870968586?h=1096fab3d9" title="Interview with Richard Kozul-Wright, Director of UNCTAD’s Globalization and Development Strategies Division" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
+                <iframe src="https://player.vimeo.com/video/870968586?h=1096fab3d9" title="Interview with Richard Kozul-Wright, Director of UNCTAD’s Globalization and Development Strategies Division" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen />
               </div>
               <ul>
                 <li>
@@ -82,7 +82,7 @@ function Footer() {
               </ul>
               <h4>Interview with Anastasia Nesvetailova, Head of UNCTAD’s Macroeconomic and Development Policies Branch</h4>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://player.vimeo.com/video/870968098?h=9f229e9a3a" title="Interview with Anastasia Nesvetailova, Head of UNCTAD’s Macroeconomic and Development Policies Branch" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen />
+                <iframe src="https://player.vimeo.com/video/870968098?h=9f229e9a3a" title="Interview with Anastasia Nesvetailova, Head of UNCTAD’s Macroeconomic and Development Policies Branch" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen />
               </div>
               <ul>
                 <li>

@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 // Load helpers.
 import ChartSankey from './components/ChartSankey.jsx';
 
+import formatNr from './helpers/FormatNr.js';
 import '../styles/styles.less';
 
 function Figure1() {
@@ -10,6 +11,13 @@ function Figure1() {
   const [dataFigure, setDataFigure] = useState(false);
 
   const cleanData = () => [{
+    textAlign: 'center',
+    dataLabels: {
+      nodeFormatter() {
+        const chart = this;
+        return `<div class=${chart.point.column === 1 ? 'text_right' : 'text_left'}><b>${chart.key}</b><br />${formatNr(chart.point.sum, ' ')} billion USD</div>`;
+      }
+    },
     data: [
       ['Node 0: China', 'Node 1: China', 1615, '#f58220'],
       ['Node 0: China', 'Node 1: Other developed countries', 26, '#f58220'],
