@@ -96,7 +96,7 @@ function Figure1() {
         note={'See note for figure "Fossil fuel finance unabated even after the Paris Agreement"'}
         source="UNCTAD calculations based on data from Reclaim Finance (2023) and on a 2022 update of Urgewald (2021)"
         subtitle="Cumulative credit support provided to fossil fuel companies, by country (group) of bank and fossil fuel company headquarters, 2016–2022, billions of dollars"
-        title="Developed country banks originate the bulk of credit support to fossil fuel companies, except in China"
+        title="Developed country banks provide the bulk of credit support to fossil fuel companies, except in China"
         ylabel=""
       />
       )}
