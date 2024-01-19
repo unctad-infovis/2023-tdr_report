@@ -80,7 +80,7 @@ function SankeyChart({
             const chart = this;
             chart.legend.allItems = chart.legend.allItems.slice(0, 2);
 
-            const positions_1 = [15, ((chart.chartWidth)) - 155];
+            const positions_1 = [15, ((chart.chartWidth)) - 225];
             if (chart.customLabels_1) {
               chart.customLabels_1.forEach((customLabel, i) => {
                 customLabel.attr({
@@ -240,11 +240,7 @@ function SankeyChart({
             maxWidth: 1200
           }
         }, {
-
           chartOptions: {
-            chart: {
-              height: 1000
-            },
             title: {
               style: {
                 fontSize: '22px',
