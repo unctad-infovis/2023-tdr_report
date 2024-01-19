@@ -89,7 +89,7 @@ function Figure1() {
     <div className="app">
       {dataFigure && (
       <ChartSankey
-        column_labels_1={['Bank headquarters', 'Fossil fuel company headquarters']}
+        column_labels_1={['Bank headquarters', 'Company headquarters']}
         data={dataFigure}
         data_type=""
         idx="1"
