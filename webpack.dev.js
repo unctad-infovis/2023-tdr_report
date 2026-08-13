@@ -10,8 +10,7 @@ module.exports = merge(common, {
   devServer: {
     hot: true,
     static: path.resolve(__dirname, './public'),
-    host: 'localhost',
-    https: false
+    host: 'localhost'
   },
   mode: 'development',
   output: {
